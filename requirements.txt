@@ -8,16 +8,15 @@
 # streamlit_option_menu
 # scikit-learn
 # streamlit_lottie
-streamlit>=1.31,<2
-pandas>=2.2,<3
-numpy>=2.1,<3
+streamlit==1.16.0
+pandas==1.4.4
+numpy==1.21.5
+matplotlib==3.5.2
+seaborn==0.11.2
+scikit-learn==1.1.3
+joblib==1.2.0
+xgboost==0.90
 
-matplotlib>=3.8,<4
-seaborn>=0.13,<1
+streamlit-option-menu==0.3.6
+streamlit-lottie==0.0.5
 
-scikit-learn>=1.4,<2
-xgboost>=2.0,<3
-joblib>=1.3,<2
-
-streamlit-option-menu>=0.3
-streamlit-lottie>=0.0.5

@@ -19,4 +19,5 @@ xgboost==0.90
 
 streamlit-option-menu==0.3.6
 streamlit-lottie==0.0.5
+altair==4.2.2
 

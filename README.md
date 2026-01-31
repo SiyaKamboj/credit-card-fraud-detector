@@ -10,7 +10,7 @@ The official ACM AI The Real Team Tu repository.
 
 ## 1. Resources
 
-- [Our App](https://chuongnguyen26-fa22-ai-team-3-app-rt9hxr.streamlit.app)
+- [Our App](https://credit-card-fraud-detector-team-tu.streamlit.app/)
 - [Our Presentation](https://docs.google.com/presentation/d/1WYZ-qgkKUHk-WgwDZpxysWq-WS-AqI2Ajovd0sB8ASg/edit?usp=sharing)
 
 ## 2. Structure
